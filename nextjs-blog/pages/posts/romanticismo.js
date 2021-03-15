@@ -26,7 +26,7 @@ export default function Clasicismo() {
         </h1>
 
         <p className="description">
-        El romanticismo musical se caracterizó por la reevaluación de la
+        El romanticismo musical, inmortalizado por Tchaikovsky se caracterizó por la reevaluación de la
 música instrumental. Ésta pasó a ser pensada como arte  autónomo 
 capaz de expresar lo inexpresable.  El compositor  comenzó a ser 
 visto como el genio intermediario entre  la audiencia y el mundo
@@ -37,7 +37,7 @@ más evidente.
        </p>
         
        <p className="description">
-       Su consecuencia directa, el Postromanticismo, no fue más que una 
+       Su consecuencia directa, el Postromanticismo, personificada por el compositor alemán Gustav Mahler no fue más que una 
 prolongación  del   Romanticismo,  donde  las  reglas  musicales 
 comenzaron  a  ser  moldeadas  a   placer  de  los  compositores, 
 impulsados  por   las  ideas   filosóficas   de Nietszche  y  el 
@@ -49,16 +49,6 @@ nacionalismo alemán.
        <h4 className="description">
        ¿Qué te atrajo más?
         </h4>
-
-        <div className="grid">
-         <p className="card4">
-         <h4>Romanticismo</h4>
-         </p>
-
-         <p className="card4">
-         <h4>Postromanticismo</h4>
-         </p>
-        </div>  
 
       <div className="grid">
          <a href="/posts/clasicismo" className="card3">
@@ -79,7 +69,8 @@ nacionalismo alemán.
     }
 
     img{
-
+      padding: 5px;
+      width: 50px;
     }
 `}</style>
         </main>

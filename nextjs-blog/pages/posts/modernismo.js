@@ -77,7 +77,8 @@ lo distinguen de los períodos anteriores:
     }
 
     img{
-
+      padding: 5px;
+      width: 50px;
     }
 `}</style>
         </main>

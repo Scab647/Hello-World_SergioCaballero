@@ -45,7 +45,7 @@ integración íntima del drama y la música.
         </h4>
 
       <div className="grid">
-         <a href="/posts/clasicismo" className="card3">
+         <a href="/posts/mozart" className="card3">
          <h5>MOZART</h5>
          </a>
 
@@ -63,6 +63,11 @@ integración íntima del drama y la música.
     }
 
     img{
+        padding: 5px;
+        width: 50px;
+      }
+  
+
 
     }
 `}</style>
