@@ -26,6 +26,8 @@ p{
   color: #0f0a03;
 
 }
+
+
 a {
   color: #0f0a03;
   text-decoration: none;
@@ -70,6 +72,18 @@ h4 {
   
 }
 
+h5 {
+  color: #160f04;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  font-size: 30px;
+  margin-top: 5rem;
+  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode'
+}
+
+
+
 .card {
     margin: 0rem;
     flex-basis: 20%;
@@ -93,6 +107,17 @@ h4 {
     transition: color 0.15s ease, border-color 0.15s ease;
     background-color: #bba079;
   }
+
+  .card3 {
+    margin: 2rem;
+    flex-basis: 20%;
+    padding: 0.2rem;
+    text-align: center;
+    color: inherit;
+    text-decoration: none;
+    transition: color 0.15s ease;
+  }
+
   .card:hover,
   .card:focus,
   .card:active {
@@ -114,6 +139,7 @@ h4 {
     line-height: 1.5;
   }
 
+  
 
 
 a:hover {
@@ -126,6 +152,14 @@ img {
   padding: 5px;
   width: 130px;
 }
+
+.img2{
+  max-width: 100%;
+  display:flex;
+  padding: 5px;
+  width: 70px;
+}
+
 
 .grid {
   display:flex;
