@@ -49,7 +49,7 @@ integración íntima del drama y la música.
          <h5>MOZART</h5>
          </a>
 
-         <a href="/posts/romanticismo" className="card3">
+         <a href="/posts/beethoven" className="card3">
          <h5>BEETHOVEN</h5>
          </a>
         </div>

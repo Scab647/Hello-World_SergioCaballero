@@ -12,14 +12,19 @@ export default function Mozart() {
 
         <main>
 
-        <div className="description">
+        <div className="grid3">
 
-        <a href="/" className="description">
-          <img src="https://cdn4.iconfinder.com/data/icons/pictype-free-vector-icons/16/home-512.png">
-          </img> 
+          <a href="/" className="description">
+            <img src="https://cdn4.iconfinder.com/data/icons/pictype-free-vector-icons/16/home-512.png"style={{width: "60px"}}>
+            </img> 
+          </a> 
 
-        </a>     
-          
+          <a href="/posts/clasicismo" className="card3">
+            <h2 className="card3">
+              Clasicismo
+            </h2> 
+          </a>      
+  
         </div> 
 
        
@@ -75,6 +80,14 @@ otra vez en cien años».
       width: 200px;
 
     }
+
+    .grid3{
+      display:flex;
+      align-items:baseline;
+      justify-content: left;
+      flex-wrap:wrap;
+      margin-top: 0rem;
+}
 
 
 `}</style>
