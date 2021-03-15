@@ -59,11 +59,11 @@ lo distinguen de los períodos anteriores:
         </h4>
 
       <div className="grid">
-         <a href="/posts/clasicismo" className="card3">
+         <a href="/posts/stravinsky" className="card3">
          <h5>STRAVINSKY</h5>
          </a>
 
-         <a href="/posts/romanticismo" className="card3">
+         <a href="/posts/messiaen" className="card3">
          <h5>MESSIAEN</h5>
          </a>
         </div>

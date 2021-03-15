@@ -2,11 +2,11 @@ import Head from 'next/head'
 import Link from 'next/link'
 import Layout from '../../components/layout'
 
-export default function stravinsky() {
+export default function messiaen() {
   return (
     <div className="container">
         <Head>
-        <title>Stravinsky</title>
+        <title>Messiaen</title>
         <link rel="icon" href="/favicon.ico" />
         </Head>
 
@@ -29,53 +29,65 @@ export default function stravinsky() {
 
        
         <h1 className="title">
-          Ígor Stravinsky
+          Olivier Messiaen
         </h1>
 
         <div className="grid2">
         <p className="card4">
-        Su larga vida  le  permitió  conocer gran variedad de corrientes  musicales. Compuso una  gran   cantidad   de   obras 
-clásicas abordando  varios  estilos  como 
-el primitivismo, el  neoclasicismo  y  el serialismo, pero es conocido mundialmente sobre todo por tres ballets de uno de sus períodos iniciales. Para muchos, estos ballets clásicos, 
-atrevidos e innovadores, prácticamente
-reinventaron el género. Stravinski también escribió para  diversos
-tipos de conjuntos en un amplio espectro de formas clásicas, desde
-óperas y sinfonías a  pequeñas  piezas  para  piano y  obras  para 
-grupos de jazz.
+        Uno de los músicos más  destacados  de  toda 
+la centuria.  Tanto  su  fascinación  por el 
+hinduismo, su  admiración por  la naturaleza 
+y los pájaros, su profunda fe cristiana y su 
+amor  por  el  color   instrumental,  fueron 
+primordiales para  su formación como artista.
+
+
+En 1940, en la batalla de Francia, Messiaen 
+fue  hecho prisionero de guerra, y mientras 
+estaba  encarcelado compuso su Quatuor pour 
+la fin  du temps  (Cuarteto para el fin del 
+tiempo) para los cuatro instrumentos disponibles allí: piano, violín,
+violonchelo  y  clarinete. La  obra  fue estrenada por Messiaen y sus
+amigos prisioneros ante una audiencia de prisioneros y vigilantes.
 
 
        </p>
 
-       <img src="/src/components/stravinsky.jpg">
+       <img src="/src/components/messiaen.jpg">
           </img> 
 
        </div>
         
-    
+       <p className="description">
+       La música de Messiaen es rítmicamente compleja (él estaba interesado 
+en los ritmos de la antigua Grecia y de orígenes hindúes), y se basa
+armónica y melódicamente  en  los modos  de  transposición  limitada, 
+que fueron una innovación propia de Messiaen. 
+
+       </p>
     
        <h3 className="description">
        Obras notables
         </h3>
 
         <h6 className="description">
-        *El pájaro de fuego (1910)
-        </h6>
-
-        <h6 className="description">
-        *Petrushka (1911)
+        *Cuarteto para el fin de los tiempos (1941)
 
         </h6>
 
         <h6 className="description">
-        *La consagración de la primavera (1913)
+        *San Francisco de Asís (1983)
+
+
         </h6>
+
 
        <h4 className="description">
        ¿Por qué no escuchas una?
         </h4>
 
         <div className="card3">
-        <iframe width="425" height="344" src="https://www.youtube.com/embed/EkwqPJZe8ms" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; fullscreen" allowfullscreen></iframe>
+        <iframe width="425" height="344" src="https://www.youtube.com/embed/q9L5p_-w4CI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; fullscreen" allowfullscreen></iframe>
         </div>
 
        <style jsx>{`
