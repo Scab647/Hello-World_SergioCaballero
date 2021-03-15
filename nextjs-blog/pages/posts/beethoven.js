@@ -43,7 +43,7 @@ forma decisiva en la evolución
 posterior de este arte.
 
 
-Su arte se expresó en numerosos géneros y 
+Su música se expresó en numerosos géneros y 
 aunque las sinfonías fueron  la    fuente 
 principal de su popularidad internacional, 
 su impacto resultó ser principalmente significativo en sus obras 

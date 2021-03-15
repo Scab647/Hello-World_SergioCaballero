@@ -36,7 +36,7 @@ sofisticación de la música barroca.
        <p className="description">
        Si lo escuchas cuidadosamente  puedes  encontrar una imitación  de 
 la naturaleza, en forma de estructuras simples y frases simétricas
-similares a las  de  la  música  folclórica, y,  especialmente una 
+similares a las  de  la  música  folclórica y,  especialmente, una 
 integración íntima del drama y la música.
        </p>
     

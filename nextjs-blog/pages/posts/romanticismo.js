@@ -26,7 +26,7 @@ export default function romanticismo() {
         </h1>
 
         <p className="description">
-        El romanticismo musical, inmortalizado por Tchaikovsky se caracterizó por la reevaluación de la
+        El romanticismo musical, inmortalizado por Tchaikovsky, se caracterizó por la reevaluación de la
 música instrumental. Ésta pasó a ser pensada como arte  autónomo 
 capaz de expresar lo inexpresable.  El compositor  comenzó a ser 
 visto como el genio intermediario entre  la audiencia y el mundo
@@ -37,7 +37,7 @@ más evidente.
        </p>
         
        <p className="description">
-       Su consecuencia directa, el Postromanticismo, personificada por el compositor alemán Gustav Mahler no fue más que una 
+       Su consecuencia directa, el Postromanticismo, personificado por el compositor alemán Gustav Mahler, no fue más que una 
 prolongación  del   Romanticismo,  donde  las  reglas  musicales 
 comenzaron  a  ser  moldeadas  a   placer  de  los  compositores, 
 impulsados  por   las  ideas   filosóficas   de Nietszche  y  el 
@@ -46,9 +46,6 @@ nacionalismo alemán.
 
        </p>
 
-       <h2 className="description">
-       Obras notables
-        </h2>
     
        <h4 className="description">
        ¿Qué te atrajo más?
@@ -77,12 +74,7 @@ nacionalismo alemán.
       width: 50px;
     }
 
-    h2{
-      text-align:justify;
-      margin-left: 15rem;
-      margin-right: 10rem;
-      color: #0f0a03;
-    }
+    
 `}</style>
         </main>
         <footer>

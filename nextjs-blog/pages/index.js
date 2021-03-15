@@ -34,12 +34,12 @@ export default function Home() {
         </h3>
 
         <p className="description">
-        En el sentido popular se le llama música clásica a la música de tradición culta. Ésta difiere de la música actual 
+        En el sentido popular se le llama música clásica a la música de tradición culta. Ésta difiere de la música contemporánea 
 por ser enteramente acústica y matemáticamente rigurosa. </p>
 
         <p className="description">
 Como todo aspecto artístico cultural, existen muchas diferencias entre periodos temporales, por lo que este sitio
-explorará un poco en la historia de la música clásica y la de algunos de sus principales exponentes. 
+explorará un poco en la historia de la música clásica y en la de algunos de sus principales exponentes. 
         </p>
       
       <div className="grid">

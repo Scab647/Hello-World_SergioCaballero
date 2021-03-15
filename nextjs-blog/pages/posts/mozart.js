@@ -54,7 +54,7 @@ reconciliada con la naturaleza y lo absoluto»
        <p className="description">
        Su influencia en toda la música occidental posterior es profunda; Ludwig 
 van Beethoven escribió sus primeras composiciones a la sombra  de Mozart, 
-de quien Joseph Haydn escribió que  «la posteridad  no  verá tal talento 
+de quien Joseph Haydn escribió que  «la posteridad  no  vería tal talento 
 otra vez en cien años».
 
        </p>

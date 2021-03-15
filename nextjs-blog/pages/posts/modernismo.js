@@ -29,7 +29,7 @@ export default function Clasicismo() {
         Se refiere a la música de la tradición europea escrita, elaborada 
 aproximadamente entre 1910 y 1975. La música  moderna está basada 
 en los  valores  filosóficos  y estéticos del  modernismo el cual 
-tiene como  principio  principal  la ruptura con  la tradición, y 
+tiene como  principio la ruptura con  la tradición, y 
 la permanente innovación.
 
        </p>
