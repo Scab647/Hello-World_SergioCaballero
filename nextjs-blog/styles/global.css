@@ -79,7 +79,7 @@ h5 {
   align-items: center;
   font-size: 30px;
   margin-top: 5rem;
-  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode'
+  font-family:'Snell Roundhand'
 }
 
 
@@ -109,7 +109,7 @@ h5 {
   }
 
   .card3 {
-    margin: 2rem;
+    margin: 1rem;
     flex-basis: 20%;
     padding: 0.2rem;
     text-align: center;
@@ -151,13 +151,6 @@ img {
   display:flex;
   padding: 5px;
   width: 130px;
-}
-
-.img2{
-  max-width: 100%;
-  display:flex;
-  padding: 5px;
-  width: 70px;
 }
 
 
