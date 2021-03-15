@@ -2,11 +2,11 @@ import Head from 'next/head'
 import Link from 'next/link'
 import Layout from '../../components/layout'
 
-export default function Beethoven() {
+export default function mahler() {
   return (
     <div className="container">
         <Head>
-        <title>Beethoven</title>
+        <title>Mahler</title>
         <link rel="icon" href="/favicon.ico" />
         </Head>
 
@@ -19,9 +19,9 @@ export default function Beethoven() {
           </img> 
         </a> 
 
-         <a href="/posts/clasicismo" className="card3">
+         <a href="/posts/romanticismo" className="card3">
           <h2 className="card3">
-              Clasicismo
+              Romanticismo/Postromanticismo
               </h2> 
         </a>      
           
@@ -29,78 +29,62 @@ export default function Beethoven() {
 
        
         <h1 className="title">
-          Ludwig Van Beethoven
+          Gustav Mahler
         </h1>
 
         <div className="grid2">
         <p className="card4">
-        Su legado musical abarca, cronológicamente,
-desde el Clasicismo hasta los inicios del 
-Romanticismo.  Es  considerado  uno de los 
-compositores más importantes de la historia
-de la música y su legado ha influido de 
-forma decisiva en la evolución 
-posterior de este arte.
+        Gustav Mahler  fue  uno   de  los   más 
+importantes  directores de  orquesta  y 
+de ópera de su momento.  Posteriormente, 
+como compositor  centró sus esfuerzos en 
+la forma sinfónica y en el lied. 
 
-
-Su arte se expresó en numerosos géneros y 
-aunque las sinfonías fueron  la    fuente 
-principal de su popularidad internacional, 
-su impacto resultó ser principalmente significativo en sus obras 
-para piano y música de cámara.
+Él  mismo  advertía  que  componer  una 
+sinfonía  era  «construir un  mundo con
+ todos los medios posibles», por lo que
+sus   trabajos   en  este   campo    se 
+caracterizan  por una amplísima heterogeneidad.
 
 
 
        </p>
 
-       <img src="/src/components/beethoven.jpg">
+       <img src="/src/components/mahler.jpg">
           </img> 
 
        </div>
         
        <p className="description">
-       En su  prolífica  trayectoria  musical, Beethoven  dejó  para la 
-posteridad un importante legado: nueve sinfonías, una ópera, dos 
-misas,  tres cantatas,  treinta y  dos sonatas para piano, cinco 
-conciertos  para  piano,  un concierto  para  violín, un  triple 
-concierto para  violín, violonchelo, piano y orquesta, dieciséis 
-cuartetos  de  cuerda,  una  gran fuga  para  cuarteto de cuerda, 
-diez sonatas para violín y piano, cinco sonatas para violonchelo
-y  piano e innumerables oberturas,  obras de cámara,  series de 
-variaciones,  arreglos de  canciones populares y bagatelas  para 
-piano.
-
+       Sus obras sinfónicas adquirieron desmesuradas proporciones e incluían 
+armonías disonantes. La apariencia del desorden que resultaba, con el
+esfuerzo extra que demandaba reconocer alguna formalidad «clásica» en 
+su estructura, generó la incomprensión de su música,  atrayéndole una 
+hostilidad casi general.
        </p>
-
+    
        <h3 className="description">
-       Obras notables (Hasta por nombre las conoces)
+       Obras notables
         </h3>
 
         <h6 className="description">
-        *Sonata 14: Moonlight sonata (1801)
-
+       *Cuarteto para piano (1876)
         </h6>
 
         <h6 className="description">
-        *Sinfonía No. 5 (1808)
-
+        *Sinfonía No. 2: Resurrección (1894)
         </h6>
 
         <h6 className="description">
-        *Sinfonía No. 9: Coral (1824)
+        *Sinfonía No. 9  (1909)
         </h6>
 
-        <h6 className="description">
-        *Bagatelle en La mayor.: Für Elise (1810)
-        </h6>
-
-    
        <h4 className="description">
        ¿Por qué no escuchas una?
         </h4>
 
         <div className="card3">
-        <iframe width="425" height="344" src="https://www.youtube.com/embed/thEJQF8a2-M" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; fullscreen" allowfullscreen></iframe>
+        <iframe width="425" height="344" src="https://www.youtube.com/embed/hzO2fPBxQTc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; fullscreen" allowfullscreen></iframe>
         </div>
 
        <style jsx>{`
@@ -140,6 +124,8 @@ piano.
         color: #5e5242;
         font-size: 15px;
       }
+
+    
 
 
 

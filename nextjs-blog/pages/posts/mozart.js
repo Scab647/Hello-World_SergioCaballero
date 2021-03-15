@@ -58,6 +58,22 @@ de quien Joseph Haydn escribió que  «la posteridad  no  verá tal talento
 otra vez en cien años».
 
        </p>
+
+       <h3 className="description">
+       Obras notables (Aunque no lo sepas las has escuchado)
+        </h3>
+
+        <h6 className="description">
+        *Ave Verum Corpus (1791)
+        </h6>
+
+        <h6 className="description">
+        *Misa de Réquiem en Re menor (1791)
+        </h6>
+
+        <h6 className="description">
+        *Sinfonía No. 40 (1788)
+        </h6>
     
        <h4 className="description">
        ¿Por qué no escuchas una?
@@ -88,6 +104,23 @@ otra vez en cien años».
       flex-wrap:wrap;
       margin-top: 0rem;
 }
+
+h3{
+  text-align:justify;
+  margin-left: 15rem;
+  margin-right: 10rem;
+  color: #0f0a03;
+  font-size: 20px;
+}
+
+h6{
+  text-align:justify;
+  margin-left: 15rem;
+  margin-right: 10rem;
+  color: #5e5242;
+  font-size: 15px;
+}
+
 
 
 `}</style>

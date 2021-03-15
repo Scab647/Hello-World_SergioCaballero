@@ -2,7 +2,7 @@ import Head from 'next/head'
 import Link from 'next/link'
 import Layout from '../../components/layout'
 
-export default function Clasicismo() {
+export default function romanticismo() {
   return (
     <div className="container">
         <Head>
@@ -45,17 +45,21 @@ nacionalismo alemán.
 
 
        </p>
+
+       <h2 className="description">
+       Obras notables
+        </h2>
     
        <h4 className="description">
        ¿Qué te atrajo más?
         </h4>
 
       <div className="grid">
-         <a href="/posts/clasicismo" className="card3">
+         <a href="/posts/tchaikovsky" className="card3">
          <h5>TCHAIKOVSKY</h5>
          </a>
 
-         <a href="/posts/romanticismo" className="card3">
+         <a href="/posts/mahler" className="card3">
          <h5>MAHLER</h5>
          </a>
         </div>
@@ -71,6 +75,13 @@ nacionalismo alemán.
     img{
       padding: 5px;
       width: 50px;
+    }
+
+    h2{
+      text-align:justify;
+      margin-left: 15rem;
+      margin-right: 10rem;
+      color: #0f0a03;
     }
 `}</style>
         </main>
