@@ -58,9 +58,8 @@ otra vez en cien años».
        ¿Por qué no escuchas una?
         </h4>
 
-        <div className="'description'">
-          <video src="https://www.youtube.com/watch?v=Dp2SJN4UiE4&ab_channel=FranceMusique">
-          </video> 
+        <div className="card3">
+        <iframe width="425" height="344" src="https://www.youtube.com/embed/Dp2SJN4UiE4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; fullscreen" allowfullscreen></iframe>
         </div>
 
        <style jsx>{`
@@ -77,11 +76,6 @@ otra vez en cien años».
 
     }
 
-    .img2{
-      padding: 5px;
-      width: 10px;
-
-    }
 
 `}</style>
         </main>
